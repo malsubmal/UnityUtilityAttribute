@@ -4,5 +4,4 @@
 
 Rule ID | Category | Severity | Notes                                          
 --------|----------|----------|------------------------------------------------
-IH0001  | Naming   | Warning  | Type names should not contain the company name.
-AB0002  | Usage    | Warning  | The speed must be lower than the Speed of Light.
+IH0001  | Naming   | Warning  | Overriding methods with [MustCallBase] must call base()
