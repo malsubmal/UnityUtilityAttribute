@@ -17,7 +17,7 @@ namespace SampleAnalyzer
     {
         
         private static readonly DiagnosticDescriptor Rule = new(
-            "CS1001",
+            "IH0001",
             "Override method must call base method",
             "Override method must call base method",
             "Usage",

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AttributeRe
+namespace UtilAttribute
 {
     
     [AttributeUsage(AttributeTargets.Method)]

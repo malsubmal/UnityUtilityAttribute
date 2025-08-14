@@ -1,7 +1,7 @@
 ﻿// ReSharper disable UnusedType.Global
 // ReSharper disable UnusedMember.Global
 
-using AttributeRe;
+using UtilAttribute;
 
 namespace SampleAnalyzer.Sample
 {

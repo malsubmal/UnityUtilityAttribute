@@ -8,8 +8,8 @@
         <ProjectGuid>{386859A8-D4B4-43BA-B05D-AEC953BF987A}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>AttributeRe</RootNamespace>
-        <AssemblyName>AttributeRe</AssemblyName>
+        <RootNamespace>UtilAttribute</RootNamespace>
+        <AssemblyName>UtilAttributeRe</AssemblyName>
         <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
