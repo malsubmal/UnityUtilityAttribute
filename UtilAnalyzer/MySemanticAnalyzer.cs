@@ -21,7 +21,7 @@ namespace SampleAnalyzer
             "Override method must call base method",
             "Override method must call base method",
             "Usage",
-            DiagnosticSeverity.Error,
+            DiagnosticSeverity.Warning,
             isEnabledByDefault: true);
 
 
