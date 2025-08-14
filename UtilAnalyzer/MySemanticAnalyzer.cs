@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Immutable;
 using System.Linq;
-using AttributeRe;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.CodeAnalysis.Diagnostics;

@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAnalyzer", "SampleAnalyzer\SampleAnalyzer.csproj", "{2C450CB6-D914-4F09-8A76-7A3F1AFDB4BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilAnalyzer", "UtilAnalyzer\UtilAnalyzer.csproj", "{2C450CB6-D914-4F09-8A76-7A3F1AFDB4BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAnalyzer.Sample", "SampleAnalyzer.Sample\SampleAnalyzer.Sample.csproj", "{CD71BC7E-F464-4AC4-B260-ED299D9E4D90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilAnalyzer.Sample", "UtilAnalyzer.Sample\UtilAnalyzer.Sample.csproj", "{CD71BC7E-F464-4AC4-B260-ED299D9E4D90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeRe", "AttributeRe\AttributeRe.csproj", "{386859A8-D4B4-43BA-B05D-AEC953BF987A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilAttribute", "UtilAttribute\UtilAttribute.csproj", "{386859A8-D4B4-43BA-B05D-AEC953BF987A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

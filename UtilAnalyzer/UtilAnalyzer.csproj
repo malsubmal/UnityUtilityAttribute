@@ -10,7 +10,8 @@
         <IsRoslynComponent>true</IsRoslynComponent>
 
         <RootNamespace>SampleAnalyzer</RootNamespace>
-        <AssemblyName>SampleAnalyzer</AssemblyName>
+
+        <PackageId>UtilAnalyzer</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
