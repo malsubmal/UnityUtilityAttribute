@@ -26,3 +26,5 @@ There're two parts to the repo you need to deal with:
 - This dll must be in an Editor folder
 - Untick "Validate Reference" and "Any Platform"
 - Add the "RoslynAnalyzer" tag to the dll
+
+(Go to relase page for prebuilt dlls)
