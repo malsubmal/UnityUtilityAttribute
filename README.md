@@ -9,7 +9,10 @@ Some attributes and analyzers I need when working with Unity
 ## Current Attributes
 
  ### [MustCallBase]
- ```Add this to  your base method to force all the overriding method to call base()```
+```
+Add this to  your base method to force all the overriding method to call base()
+Serverity: Warning
+```
 
 
 
